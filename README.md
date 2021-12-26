@@ -1,4 +1,6 @@
-🚀 BIG_Project 시작 🚀
+🚀 BIG_Project 시작 
+
+🚀 앱이름 
 
 🖥 내가 앱개발 공부를 하개된 이유
 
